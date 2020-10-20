@@ -76,7 +76,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Skiing"
-      subtitle = "Top 5 Ski destinations in my very unprofessional opinion"
+      subtitle = "Top 3 Ski destinations in my very unprofessional opinion"
       image = "2.jpg"
       url = "blogs/aliquam"
 
