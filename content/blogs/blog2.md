@@ -10,7 +10,7 @@ slug: magna
 title: Food Recipies
 image: chef.jpg
 ---
-#Home Made Tortilla Wraps:
+# Home Made Tortilla Wraps:
 
 *For 2 persons*
 ## Ingredients:
