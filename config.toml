@@ -95,7 +95,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Finanical Analysis"
       subtitle = "Comparative analysis of some CEE banks"
-      image = "05.jpg"
+      image = "5.jpg"
       url = "blogs/ipsum"
 
   [params.blog]
